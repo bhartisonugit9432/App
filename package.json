@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "homepage": "https://github.com/bhartisonugit9432/App#readme",
+  "bugs": {
+    "url": "https://github.com/bhartisonugit9432/App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhartisonugit9432/App.git"
+  },
+  "license": "ISC",
+  "author": "sonu bharti",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
